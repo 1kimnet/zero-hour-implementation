@@ -47,3 +47,4 @@ yarn.lock
 #Ignore insiders AI rules
 .github\instructions\codacy.instructions.md
 .vscode/settings.json
+.env
