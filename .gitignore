@@ -1,9 +1,12 @@
+# Workspace specific ignores
+arcgisdata/
 # OS-specific
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
+./start-server.bat
+start_server.bat
 # Python
 __pycache__/
 *.py[cod]

@@ -1,3 +1,5 @@
 # Add Python runtime dependencies here
 # Example:
 # requests==2.32.3
+arcgis==2.9.5
+arcgis-mapping==1.0.0
